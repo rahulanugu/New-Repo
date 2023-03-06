@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
  
-  <groupId>http://20.110.161.41:9000/dashboard?id=webapp</groupId>
-  <artifactId>web-app</artifactId>
+  <groupId>http://20.110.161.41:9000</groupId>
+  <artifactId>webapp</artifactId>
   <version>1</version>
 </project>
